@@ -11,7 +11,7 @@ Welcome to Learning circles user manual's documentation!
    :caption: Contents:
 
    intro
-   installation
    organizer
    facilitator
+   installation
 
