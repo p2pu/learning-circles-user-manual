@@ -4,18 +4,26 @@ Introduction
 What is a learning circle?
 --------------------------
 
-A learning circle is a study group of about 8 people that meets weekly at a physical location to complete an online course together. A facilitator is present to help with logistics and seed peer learning. Content expertise come from the online course and associated online community.
+A learning circle is a group of people who meet face-to-face to learn something together. Every learning circle has a facilitator, who help to organize meetings and create an atmosphere of peer-to-peer learning. Facilitators do not need to be subject experts; the expertise comes from the online course and the community of learners. 
 
-For more information, see the `P2PU facilitate page <https://www.p2pu.org/en/facilitate/>`_.
+This manual is intended primarily for familiarizing yourself with P2PU's software tools. Please consider these additional resources as well:
+
+There are a number of facilitation resources available at https://www.p2pu.org/en/facilitate/
+
+The free, online courses that learning circles have used in the past are available at https://www.p2pu.org/en/courses/
+
+Our online community lives at https://community.p2pu.org
+
 
 Tools for learning circles
 --------------------------
+When learning circles first began in Chicago in 2015, we didn’t have any tools and software. We just worked with librarians to find online courses and helped them become better facilitators. Over time, as the project has grown, we have iteratively developed a number of tools and resources to create an online ecosystem for learning circle facilitators. These tools are designed to improve the experience for facilitators and learners alike. On the one hand, we aim to make organizing face-to-face meetings easier by simplifying promotion, sending reminders, aggregating data, etc. On the other hand, we seek to create a strong, networked, community where a learning circle in one city can benefit, in a small way, from the fact that learning circles are also happening elsewhere. Learning circles have been successful so far not just because we have developed a single resource, but because there is a vibrant community of practice that has formed around a series of tools and resources.
 
-To help organize and run learning circles, we developed a set of online tools. These tools address the needs of three different groups:
+Our tools address the needs of three different groups:
 
 #. Learners. The people taking the learning circles.
 #. Facilitators. People facilitating individual learnig circles.
-#. Organizers. People organizing several learning circles.
+#. Organizers. People organizing several learning circles across a town, city, or country. (Often the organizer is also a facilitator).
 
 Learners can:
 ^^^^^^^^^^^^^
@@ -24,6 +32,7 @@ Learners can:
 * Sign up for a learning circle.
 * RSVP for weekly learning circle meetings.
 * Complete a survey on their experience taking the learning circle.
+* Receive an end-of-learning circle report from their facilitator.
 
 Facilitators can:
 ^^^^^^^^^^^^^^^^^
@@ -31,9 +40,10 @@ Facilitators can:
 * Use a step by step dialog to guide them through creating a learning circle.
 * See who signed up, when meetings are scheduled, who can come, etc.
 * Send messages to learners.
-* Customize the weekly reminders.
+* Customize weekly reminders.
 * Capture feedback after a meeting to gather and share reflections.
 * Complete a survey on their experience facilitating a learning circle.
+* Generate a report at the end of the learning circle.
 
 Organizers can:
 ^^^^^^^^^^^^^^^
