@@ -5,7 +5,7 @@ The facilitator dashboard was created to help people run effective learning meet
 
 Log In
 ------
-To access your dashboard you'll first need to create a P2PU account, which you can do from the P2PU home page. After setting your password you will be logged in and redirected to the dashboard. You can also access your dashboard directly at http://example.com/facilitator/. 
+To access your dashboard you'll first need to create a P2PU account, which you can do from the P2PU homepage. After setting your password you will be logged in and redirected to your dashboard. You can also access your dashboard directly at http://example.com/facilitator/. 
 
 .. image:: _static/2018-12-12-account-creation.png
 
@@ -50,11 +50,16 @@ Once you create a learning circle, your dashboard will look like this:
 .. image:: _static/2018-12-12-live-lc.png
 
 There are a few things you can do here. 
-- **Edit** to change basic information like the meeting room.
-- **Delete** to delete the learning circle.
-- **Close sign up** to remove the learning circle from the search page and prevent future sign ups. (This is useful if you are at your max capacity of sign ups).
-- **View webpage** to see and share your learning circle sign up page.
-- **View final report** to access the report that is generated at the end of the learning circle.
+
+**Edit** to change basic information like the meeting room.
+
+**Delete** to delete the learning circle.
+
+**Close sign up** to remove the learning circle from the search page and prevent future sign ups. (This is useful if you are at your max capacity of sign ups).
+
+**View webpage** to see and share your learning circle sign up page.
+
+**View final report** to access the report that is generated at the end of the learning circle.
 
 Manage sign ups
 --------------------------
