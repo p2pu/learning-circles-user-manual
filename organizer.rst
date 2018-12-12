@@ -1,14 +1,16 @@
 Team organizer guide
 ====================
 
-As a team organizer, you get an overview of what is going on in learning circles run by facilitators in your team. Before you can get started, your team needs to be created for you. Chances are good that ist's been done already if you are here, but if not, get in contact with the P2PU team.
+For cities and institutions that are running multiple leanring circles, we offer team organizer functionality. As a team organizer, you get an overview of what is going on in learning circles run by facilitators across your team. Organizers are often facilitators, but this does not have to be the case. 
 
-Log into your dashboard - https://learningcircles.p2pu.org/en/accounts/login/
+Teams have to be manually added by P2PU. So if you aren't sure if you have one or have trouble accessing it, contact the P2PU team.
+
+To get started, log into your dashboard - https://learningcircles.p2pu.org/en/accounts/login/
 
 Dashboard overview
 ------------------
 
-At the top of your dashboard, there are 4 different tabs for you to switch between upcoming meetings, active learning circles, facilitators and invitations.
+At the top of your dashboard, there are 4 different tabs for organizsers to switch between: upcoming meetings, active learning circles, facilitators and invitations.
 
 The **upcoming meetings** view gives you an overview of what learning circles are meeting this week. You can also see what is happening the previous week or the next week.
 
@@ -44,7 +46,7 @@ Once the facilitator signed up, they will need to accept the team invitation on 
 Weekly update
 -------------
 
-As a team organizer you will also receive a weekly update every Monday. This update with contain all the meetings that happened in the previous week and any feedback that was submitted by facilitators in your team.
+As a team organizer you will also receive a weekly update every Monday. This update with contain information about past, present, and upcoming meetings on your team, including learning circle reports, weekly feedback from facilitators, and information about who is signing up.
 
 .. image:: _static/organizer-weekly-update.png
 
