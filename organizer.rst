@@ -29,7 +29,7 @@ This works the same way as before, but now you’ll find the invitation form on 
 
 Option 2: Matching email domain
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-If your team is associated with an organization that has its own email domain, we can save the email domain in your team settings so that any new facilitator with a validated matching email address will automatically receive an invitation to join your team. For example, if your team members all have staff emails such as *sharon@bigpubliclibrary.org*, you can set *bigpubliclibrary.org* as your team domain so that when someone with an email address like nico@bigpubliclibrary.org registers on the P2PU platform, they’ll get invited to join the team. If you want to use this method, please contact us directly to set the email domain.
+If your team is associated with an organization that has its own email domain, we can save the email domain in your team settings so that any new facilitator with a validated matching email address will automatically receive an invitation to join your team. For example, if your team members all have staff emails such as *sharon@bigpubliclibrary.org*, you can set *bigpubliclibrary.org* as your team domain so that when someone with an email address like *nico@bigpubliclibrary.org* registers on the P2PU platform, they’ll get invited to join the team. If you want to use this method, please contact us directly to set the email domain.
 
 Option 3: Invitation link
 ^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -43,6 +43,7 @@ The Teams Page provides a comprehensive listing of teams around the world, allow
 .. image:: _static/2019-08-13-teams-page.png
 
 One aspect you can edit directly is your organizer profile that appears on the Teams page. On your Account Settings page, you can fill out your profile with a photo, bio, location, and link to your contact information. When you update your profile, the new information may take a few days to be reflected on the Teams page.
+
 
 Weekly update
 -------------
