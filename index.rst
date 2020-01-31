@@ -13,5 +13,6 @@ Welcome to Learning circles user manual's documentation!
    intro
    organizer
    facilitator
+   engagement
    installation
 
