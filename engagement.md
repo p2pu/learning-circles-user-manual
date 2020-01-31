@@ -1,4 +1,4 @@
-# Engagement 
+# How are users engaged during the learning circle
 
 We ask facilitators and participants a few questions at different times during the life cycle of a learning circle. We want the questions to be thoughtful and the information gathered to be useful. Here's an overview of what we ask and when we ask it. The diagram below shows the timeline for a single learning circle:
 
