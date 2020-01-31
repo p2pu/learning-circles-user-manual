@@ -2,7 +2,7 @@
 
 We ask facilitators and participants a few questions at different times during the life cycle of a learning circle. We want the questions to be thoughtful and the information gathered to be useful. Here's an overview of what we ask and when we ask it. The diagram below shows the timeline for a single learning circle:
 
-![learning circle timeline](_images/2020-01-31-timeline.png) 
+![learning circle timeline](_static/2020-01-31-timeline.png) 
 
 ## Learning circle creation
 
@@ -14,11 +14,11 @@ When creating a learning circle, ask facilitators:
 
 The answers to these questions are shared with a Welcome Committee, which includes both P2PU staff and veteran facilitators from around the world.
 
-![learning circle creation](_images/2020-01-31-create-qs.png) 
+![learning circle creation](_static/2020-01-31-create-qs.png) 
 
 Additionally, The facilitator also has the opportunity to ask a single questions to prospective participants.
 
-![learning circle creation custom question](_images/2020-01-31-create-custom-q.png)
+![learning circle creation custom question](_static/2020-01-31-create-custom-q.png)
 
 Use it if there is one other question you want to ask participants. If you have a number of additional questions, we recommend you send those to learners in a separate email through the dashboard, or reach out to us about ways to streamline the process.
 
@@ -26,7 +26,7 @@ Use it if there is one other question you want to ask participants. If you have 
 
 During signup, learners are asked what their goal is for taking a learning circle. Facilitators have the option of adding an additional question. Finally, learners can opt into general P2PU communications. This is what the signup form looks like:
 
-![learning circle signup](_images/2020-01-31-signup.png) 
+![learning circle signup](_static/2020-01-31-signup.png) 
 
 ## Learner surveys
 
@@ -42,7 +42,7 @@ At the end of a learning circle, learners are asked to complete a survey. The su
 
 Learners will receive an email right before the last meeting asking them to complete the survey. Facilitators can also find the link for the learner survey on their dashboard and manually share it with learners:
 
-![learning circle dash](_images/2020-01-31-dash.png) 
+![learning circle dash](_static/2020-01-31-dash.png) 
 
 ## Facilitator survey
 
