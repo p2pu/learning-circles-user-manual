@@ -1,8 +1,10 @@
+# Engagement 
+
 We ask facilitators and participants a few questions at different times during the life cycle of a learning circle. We want the questions to be thoughtful and the information gathered to be useful. Here's an overview of what we ask and when we ask it. The diagram below shows the timeline for a single learning circle:
 
-![](_static/2020-01-31-timeline.png) 
+![learning circle timeline](_images/2020-01-31-timeline.png) 
 
-# Learning circle creation
+## Learning circle creation
 
 When creating a learning circle, ask facilitators:
 
@@ -12,21 +14,21 @@ When creating a learning circle, ask facilitators:
 
 The answers to these questions are shared with a Welcome Committee, which includes both P2PU staff and veteran facilitators from around the world.
 
-![image](_static/2020-01-31-create-qs.png) 
+![learning circle creation](_images/2020-01-31-create-qs.png) 
 
 Additionally, The facilitator also has the opportunity to ask a single questions to prospective participants.
 
-![](_static/2020-01-31-create-custom-q.png)
+![learning circle creation custom question](_images/2020-01-31-create-custom-q.png)
 
 Use it if there is one other question you want to ask participants. If you have a number of additional questions, we recommend you send those to learners in a separate email through the dashboard, or reach out to us about ways to streamline the process.
 
-# Learner signup
+## Learner signup
 
 During signup, learners are asked what their goal is for taking a learning circle. Facilitators have the option of adding an additional question. Finally, learners can opt into general P2PU communications. This is what the signup form looks like:
 
-![signup](_static/2020-01-31-signup.png) 
+![learning circle signup](_images/2020-01-31-signup.png) 
 
-# Learner surveys
+## Learner surveys
 
 At the end of a learning circle, learners are asked to complete a survey. The survey serves as a baseline for assessing learning circle quality and a prompt for feedback about the online course. These are the questions we’re asking learners in the survey:
 
@@ -40,9 +42,9 @@ At the end of a learning circle, learners are asked to complete a survey. The su
 
 Learners will receive an email right before the last meeting asking them to complete the survey. Facilitators can also find the link for the learner survey on their dashboard and manually share it with learners:
 
-![learning%20circle%20dash|689x338](_static/2020-01-31-dash.png) 
+![learning circle dash](_images/2020-01-31-dash.png) 
 
-# Facilitator survey
+## Facilitator survey
 
 Facilitators will also receive an email right before the last meeting asking them to complete the survey. This is what the facilitator survey look like:
 
@@ -56,9 +58,9 @@ Facilitators will also receive an email right before the last meeting asking the
 
 A link to the facilitator survey is also available on facilitator's learning circle dashboard.
 
-# Learning circle insights
+## Learning circle insights
 
 Using the feedback facilitators and learners provide, we generate the an anonymized, public document called "learning circle insights”:
 
-[![2dc635d460dc34167b86aa4347f0fc1842613564|234x500](https://community.p2pu.org/uploads/default/original/2X/2/2dc635d460dc34167b86aa4347f0fc1842613564.png)](https://community.p2pu.org/uploads/default/original/2X/2/2dc635d460dc34167b86aa4347f0fc1842613564.png))
+[![Learning circle insights](https://community.p2pu.org/uploads/default/original/2X/2/2dc635d460dc34167b86aa4347f0fc1842613564.png)](https://community.p2pu.org/uploads/default/original/2X/2/2dc635d460dc34167b86aa4347f0fc1842613564.png))
 
