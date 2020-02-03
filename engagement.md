@@ -1,4 +1,4 @@
-# How are users engaged during learning circles?
+# How does P2PU communicate with learners and facilitators during learning circles?
 
 We ask facilitators and participants a few questions at different times during the life cycle of a learning circle. We want the questions to be thoughtful and the information gathered to be useful. Here's an overview of what we ask and when we ask it. The diagram below shows the timeline for a single learning circle:
 
@@ -20,7 +20,7 @@ Additionally, The facilitator also has the opportunity to ask a single questions
 
 ![learning circle creation custom question](_static/2020-01-31-create-custom-q.png)
 
-Use it if there is one other question you want to ask participants. If you have a number of additional questions, we recommend you send those to learners in a separate email through the dashboard, or reach out to us about ways to streamline the process.
+You should use this if there is one other question you want to ask participants. If you have a number of additional questions, we recommend you send those to learners in a separate email through the dashboard, or reach out to us about ways to streamline the process.
 
 ## Learner signup
 
@@ -60,7 +60,7 @@ A link to the facilitator survey is also available on facilitator's learning cir
 
 ## Learning circle insights
 
-Using the feedback facilitators and learners provide, we generate the an anonymized, public document called "learning circle insights”:
+Using the feedback facilitators and learners provide, we generate the an anonymized, public document called "learning circle insights”. Here's an example of what that looks like:
 
 ![Learning circle insights](https://community.p2pu.org/uploads/default/original/2X/2/2dc635d460dc34167b86aa4347f0fc1842613564.png)
 
