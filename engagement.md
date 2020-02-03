@@ -62,5 +62,5 @@ A link to the facilitator survey is also available on facilitator's learning cir
 
 Using the feedback facilitators and learners provide, we generate the an anonymized, public document called "learning circle insights”:
 
-![Learning circle insights](https://community.p2pu.org/uploads/default/original/2X/2/2dc635d460dc34167b86aa4347f0fc1842613564.png)](https://community.p2pu.org/uploads/default/original/2X/2/2dc635d460dc34167b86aa4347f0fc1842613564.png))
+![Learning circle insights](https://community.p2pu.org/uploads/default/original/2X/2/2dc635d460dc34167b86aa4347f0fc1842613564.png)
 
