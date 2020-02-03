@@ -1,4 +1,4 @@
-# How are users engaged during the learning circle
+# How are users engaged during learning circles?
 
 We ask facilitators and participants a few questions at different times during the life cycle of a learning circle. We want the questions to be thoughtful and the information gathered to be useful. Here's an overview of what we ask and when we ask it. The diagram below shows the timeline for a single learning circle:
 
@@ -62,5 +62,5 @@ A link to the facilitator survey is also available on facilitator's learning cir
 
 Using the feedback facilitators and learners provide, we generate the an anonymized, public document called "learning circle insights”:
 
-[![Learning circle insights](https://community.p2pu.org/uploads/default/original/2X/2/2dc635d460dc34167b86aa4347f0fc1842613564.png)](https://community.p2pu.org/uploads/default/original/2X/2/2dc635d460dc34167b86aa4347f0fc1842613564.png))
+![Learning circle insights](https://community.p2pu.org/uploads/default/original/2X/2/2dc635d460dc34167b86aa4347f0fc1842613564.png)](https://community.p2pu.org/uploads/default/original/2X/2/2dc635d460dc34167b86aa4347f0fc1842613564.png))
 
