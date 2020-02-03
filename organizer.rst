@@ -31,6 +31,10 @@ Option 2: Matching email domain
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 If your team is associated with an organization that has its own email domain, we can save the email domain in your team settings so that any new facilitator with a validated matching email address will automatically receive an invitation to join your team. For example, if your team members all have staff emails such as *sharon@bigpubliclibrary.org*, you can set *bigpubliclibrary.org* as your team domain so that when someone with an email address like *nico@bigpubliclibrary.org* registers on the P2PU platform, they’ll get invited to join the team. If you want to use this method, please contact us directly to set the email domain.
 
+.. image:: _static/2020-02-03-automatic-team-invitation.png
+
+Users will need to first confirm their email address for the invitation to show up on their dashboard.
+
 Option 3: Invitation link
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 As an organizer, you can generate a unique link that allows anyone with the link to join your team. You can generate the link on Facilitator Dashboard in the Team Members block under the “Invite New Members” tab. You can also regenerate the link whenever you want, making any previous links inactive, or you can disable the invitation link altogether.
