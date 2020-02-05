@@ -20,7 +20,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Learning circles user manual'
-copyright = '2018, Dirk'
+copyright = '2020, P2PU'
 author = 'Dirk'
 
 # The short X.Y version
