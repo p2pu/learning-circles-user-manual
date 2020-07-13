@@ -1,53 +1,47 @@
 Team Organizer Guide
 ====================
 
-We offer additional functionality for institutions that are running learning circles across multiple locations ("teams"). Each team is led by an organizer, who works closely with P2PU to ensure that new facilitators in their area have everything they need to run learning circles. Team functionality includes:
+We offer additional functionality for institutions that are running learning circles across multiple locations ("teams"). Each team is led by an organizer, who works closely with P2PU to ensure that new facilitators in their area have everything they need to run learning circles. Teams are granted the following features and functionality:
 
-+ New dashboard views for facilitators and organizers
-+ A dedicated team learning circle website
-+ Team profiles featured across P2PU sites
++ A customizable learning circle team website
++ Aggregated team activity on the dashboard
 + A weekly email with team updates
-+ Aggregated learning cirle sign up data
++ Aggregated learning circle feedback and data
++ Team profile featured on the P2PU stite
 
 Current learning circle teams are visible at https://www.p2pu.org/en/teams/
 
-Teams are created manually, so if you would like to start a new team you should contact thepeople@p2pu.org
+If you would like to start a new team, please contact thepeople@p2pu.org
 
 Team Dashboards
 ---------------
-Organizers and facilitators will see a new block on their dashboard that features team activity, highlighting upcoming learning circles across the team. Organizers will see an additional block called Team Management. This table includes a list of current team members, pending team invitations, and a tab where organizers can invite new team members. 
+All team members (both organizers and facilitators) will see a new block on their dashboard that highlights upcoming learning circles across the team. Organizers will see an additional block called Team Management. This table includes a list of current team members, pending team invitations, and a tab where organizers can invite new team members.
 
 
 Team Sites
 ----------
-Each team has a unique learning circle landing page, which features all learning circles happening across your team. By default, the URL will be set to p2pu.org/[your team name]. The top of the page features information unique to your team, including a custom image, logo, introductory text, and customizable links for a dedicated website and contact email. Organizers can edit this information directly from their dashboard:
+Each team has a unique learning circle landing page, which features all learning circles happening across your team. By default, the URL will be set to p2pu.org/[your team name]. The top of the page features information unique to your team, including a custom image, logo, introductory text, and customizable links for a dedicated website and contact email. 
 
+.. image:: _static/team-page-editable-fields.jpg
 
-To make updates:
+Organizers can edit this information directly from their dashboard by clicking 'edit team information':
 
-1. Log into your account on learningcircles.p2pu.org
-2. On your Dashboard, scroll down to the Team Management table
-3. Click on “Edit team information”
-4. Add/update text and save changes
+.. image:: _static/team-page-edit.png
 
-Changes that you make through this form should update almost immediately. 
+Changes that organizers make through this form should update almost immediately. 
 
-Certain changes, like the team name and URL, need to be handled by P2PU directly. Adding and removing team members will not be immediately reflected on the team site but will be updated when P2PU next pushes changes to the website (generally at least once a week). You can send an email to support@p2pu.org if you need these updates visible sooner.
+Certain changes, like the editing the team name and URL, need to be handled by P2PU directly. Additionally, adding and removing team members will not be immediately reflected on the team site but will be updated when P2PU next pushes changes to the website (generally at least once a week). You can send an email to support@p2pu.org if you need these updates visible sooner.
 
 
 Team Profiles
 -------------
-Anybody with a P2PU account can create a profile through account settings: https://learningcircles.p2pu.org/en/accounts/settings/ 
-
-Team member profiles are displayed a few places across the P2PU site.
-
 Your team page has a carousel with all of the profiles of the facilitators on your team. Any facilitators who haven’t filled out their profile will appear with their name and a placeholder image like this:
 
-Organizer profiles will also be featured on P2PU's team directory (https://www.p2pu.org/en/teams/).
+.. image:: _static/team-page-facilitator-profile.png
 
-.. image:: _static/2019-08-13-teams-page.png
+Additionally, organizer profiles will also be featured on P2PU's team directory (https://www.p2pu.org/en/teams/).
 
-Encourage them to fill out their profile at https://learningcircles.p2pu.org/en/accounts/settings/ so that they can be fully featured on your team page!
+Profiles can be updated from P2PU account settings (https://learningcircles.p2pu.org/en/accounts/settings/). Organizers should encourage faciltiators to add an image so that they can be fully featured on the team page!
 
 Weekly Email Update
 -------------------
