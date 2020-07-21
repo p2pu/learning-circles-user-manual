@@ -1,5 +1,5 @@
-Facilitator Dashboard Guide
-===========================
+Facilitators
+============
 
 The facilitator dashboard was created to help people run effective learning meetings. You'll find tools that help you create and promote learning circles; a messaging system that you can use to communicate with participants; a feedback tool for sharing information with your colleagues and P2PU; and a report feature that collects and aggregates feedback from learning circle participants.
 
@@ -11,8 +11,7 @@ To access your dashboard you'll first need to create a P2PU account, which you c
 
 After setting your password you will be logged in and redirected to your dashboard. You can also access your dashboard directly at https://learningcircles.p2pu.org/en/.
 
-
-What’s on your Dashboard
+Learning Circle Dashboard
 ------------------------
 
 .. image:: _static/2019-08-13-blank-dashboard.png
@@ -51,9 +50,20 @@ Additional Dashboard Features
 
 **Latest Posts on Instagram:** P2PU is on Instagram. This section shows our two most recent posts. You can also click through to our account.
 
+Managing Your Learning Circle
+-----------------------------
 
+.. image:: _static/facilitator-lc-form.png
+
+Joining a Team
+--------------
+Joining a team means that:
+ •  Your learning circles will appear on your team’s learning circle page, making it easier for people in your community to find your learning circles.
+ •  You’ll be informed of other learning circles happening across your team through your dashboard and a weekly update. (You can configure email communications in account settings).
+ •  Your email address will be visible to other members of your team in the weekly update.
+ •  Information about your learning circles will be included in any reporting or evaluation that your team is conducting.
+ 
 Support
 -------
-
-If you have any questions, encounter any problems or need to do something that is not addressed above, you can contact us on our `forum <https://community.p2pu.org>`_.
+If you have any questions, encounter any problems or need to do something that is not addressed above, you can contact us at support@p2pu.org or on our `forum <https://community.p2pu.org>`_.
 
