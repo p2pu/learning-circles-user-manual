@@ -1,4 +1,4 @@
-Team Organizer Guide
+Organizers
 ====================
 
 We offer additional functionality for institutions that are running learning circles across multiple locations ("teams"). Each team is led by an organizer, who works closely with P2PU to ensure that new facilitators in their area have everything they need to run learning circles.
