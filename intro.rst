@@ -21,7 +21,7 @@ When learning circles first began in Chicago in 2015, we didn’t have any tools
 
 Our tools address the needs of three different groups:
 
-#. Learners. The people taking the learning circles.
+#. Learners. People taking the learning circles.
 #. Facilitators. People facilitating individual learnig circles.
 #. Organizers. People organizing several learning circles across a town, city, or country. (Often the organizer is also a facilitator).
 
@@ -55,7 +55,14 @@ Organizers can:
 
 
 Using the tools
----------------
+-----------------
+Learners do not need a P2PU account in order to join a learning circle.
+
+To faciltiate or organizse learning circles, you'll first need to create a P2PU account, which you can do from the P2PU homepage.
+
+.. image:: _static/2018-12-12-account-creation.png
+
+After setting your password you will be logged in and redirected to your learning circle dashboard. 
 
 The tools are hosted online and can be accessed from `www.p2pu.org <https://www.p2pu.org>`_
 
