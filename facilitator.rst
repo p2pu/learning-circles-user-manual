@@ -1,18 +1,11 @@
-Facilitators
-============
-
-The facilitator dashboard was created to help people run effective learning meetings. You'll find tools that help you create and promote learning circles; a messaging system that you can use to communicate with participants; a feedback tool for sharing information with your colleagues and P2PU; and a report feature that collects and aggregates feedback from learning circle participants.
-
-Log In
-------
-To access your dashboard you'll first need to create a P2PU account, which you can do from the P2PU homepage.
-
-.. image:: _static/2018-12-12-account-creation.png
-
-After setting your password you will be logged in and redirected to your dashboard. You can also access your dashboard directly at https://learningcircles.p2pu.org/en/.
-
 Learning Circle Dashboard
-------------------------
+=========================
+The learning circle dashboard is your home on P2PU. From here, you can create learning circles, manage existing learning circles, and see what else is happening around the community. You can also access your dashboard directly at https://learningcircles.p2pu.org/en/.
+
+
+
+Dashboard Components
+---------------------
 
 .. image:: _static/2019-08-13-blank-dashboard.png
 
@@ -50,8 +43,12 @@ Additional Dashboard Features
 
 **Latest Posts on Instagram:** P2PU is on Instagram. This section shows our two most recent posts. You can also click through to our account.
 
+
+
+
 Managing Your Learning Circle
 -----------------------------
+The facilitator dashboard was created to help people run effective learning meetings. You'll find tools that help you create and promote learning circles; a messaging system that you can use to communicate with participants; a feedback tool for sharing information with your colleagues and P2PU; and a report feature that collects and aggregates feedback from learning circle participants.
 
 .. image:: _static/facilitator-lc-form.png
 
