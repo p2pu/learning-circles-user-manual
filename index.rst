@@ -12,7 +12,7 @@ Welcome to learning circles user documentation!
 
    intro
    facilitator
-   engagement
+   manage-learning-circle
    organizer
    installation
 
