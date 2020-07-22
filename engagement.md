@@ -1,4 +1,4 @@
-# How does P2PU communicate with learners and facilitators during learning circles?
+# Creating a learning circle
 
 We ask facilitators and participants a few questions at different times during the life cycle of a learning circle. We want the questions to be thoughtful and the information gathered to be useful. Here's an overview of what we ask and when we ask it. The diagram below shows the timeline for a single learning circle:
 
@@ -27,6 +27,12 @@ You should use this if there is one other question you want to ask participants.
 During signup, learners are asked what their goal is for taking a learning circle. Facilitators have the option of adding an additional question. Finally, learners can opt into general P2PU communications. This is what the signup form looks like:
 
 ![learning circle signup](_static/2020-01-31-signup.png) 
+
+## Managing learning circles
+-----------------------------
+On your facilitator dashboard you'll find all the tools required to manage individual learning circles, including: an editable sign up page, a messaging system that you can use to communicate with participants, a feedback tool for sharing information with your colleagues and P2PU, and a report feature that collects and aggregates feedback from learning circle participants.
+
+.. image:: _static/facilitator-lc-form.png
 
 ## Learner surveys
 
