@@ -21,8 +21,8 @@ When learning circles first began in Chicago in 2015, we didn’t have any tools
 
 Our tools address the needs of three different groups:
 
-#. Learners. People taking the learning circles.
-#. Facilitators. People facilitating individual learnig circles.
+#. Learners. People participating in learning circles.
+#. Facilitators. People facilitating learnig circles.
 #. Organizers. People organizing several learning circles across a town, city, or country. (Often the organizer is also a facilitator).
 
 Learners can:
@@ -68,7 +68,6 @@ The tools are hosted online and can be accessed from `www.p2pu.org <https://www.
 
 All the source code is release under the MIT license and can be found on `GitHub <https://github.com/p2pu/learning-circles/>`_.
 
-
 Hosting your own instance
 -------------------------
 
@@ -79,3 +78,8 @@ If you're uncomfortable doing this on your own, or would simply prefer paying so
 You can always ask for support on `our forums <https://community.p2pu.org>`_ should you get stuck at any time.
 
 For more information on using the tools from a facilitator or organizer perspective, you can skip over to :doc:`the facilitator user guide <facilitator>`
+
+Support
+-------
+If you have any questions, encounter any problems or need to do something that is not addressed above, you can contact us at support@p2pu.org or on our `forum <https://community.p2pu.org>`_.
+
