@@ -2,16 +2,6 @@ Dashboard
 =========================
 The learning circle dashboard is your home on P2PU. From here, you can create learning circles, manage existing learning circles, and see what else is happening around the community. You can also access your dashboard directly at https://learningcircles.p2pu.org/en/.
 
-Joining a Team
---------------
-Some elements of the dashboard are only visible to people who are on a team. Joining a team means that:
- •  Your learning circles will appear on your team’s learning circle page, making it easier for people in your community to find your learning circles.
- •  You’ll be informed of other learning circles happening across your team through your dashboard and a weekly update. (You can configure email communications in account settings).
- •  Your email address will be visible to other members of your team in the weekly update.
- •  Information about your learning circles will be included in any reporting or evaluation that your team is conducting.
- 
-You can see current teams at: https://www.p2pu.org/en/teams/
- 
 Dashboard Components
 ---------------------
 
@@ -53,11 +43,13 @@ Additional Dashboard Features
 
 Joining a Team
 --------------
-Joining a team means that:
+Some elements of the dashboard are only visible to people who are on a team. Joining a team means that:
  •  Your learning circles will appear on your team’s learning circle page, making it easier for people in your community to find your learning circles.
  •  You’ll be informed of other learning circles happening across your team through your dashboard and a weekly update. (You can configure email communications in account settings).
  •  Your email address will be visible to other members of your team in the weekly update.
  •  Information about your learning circles will be included in any reporting or evaluation that your team is conducting.
+ 
+You can see current teams at: https://www.p2pu.org/en/teams/
  
 Support
 -------
