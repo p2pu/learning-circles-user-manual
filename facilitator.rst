@@ -1,4 +1,4 @@
-Learning Circle Dashboard
+Dashboard
 =========================
 The learning circle dashboard is your home on P2PU. From here, you can create learning circles, manage existing learning circles, and see what else is happening around the community. You can also access your dashboard directly at https://learningcircles.p2pu.org/en/.
 
