@@ -1,5 +1,5 @@
-Learning Circle Management
-==========================
+Facilitators
+============
 
 Creating a learning circle
 ------
@@ -38,7 +38,7 @@ When you click on “Manage”, you’ll go to a page for your learning circle t
 .. image:: _static/2019-08-13-lc-management-page.png
 
 Manage sign ups
---------------------------
+^^^^^^^^^^^^^^^
 
 Anytime that somebody signs up, they will appear on your dashboard. We recommend that all learners are signed up through the facilitator dashboard during the first meeting. If you need to add or remove learners from the learning circle, you can do so on the “Members” part of the dashboard.
 
@@ -47,14 +47,14 @@ To add a learner manually, click the “Add learner” button and fill in the le
 .. image:: _static/facilitator-dash-members.png
 
 View and edit meeting times
----------------------------
+^^^^^^^^^^^^^^^
 
 The dashboard will show you a list of all the meetings that are scheduled for you learning circle. Learners have the opportunity to RSVP to meeting reminders via emails they receive, and as they RSVP you will be able to see their responses here. If there are some meetings that will happen at a different time than normal, or if you would like to add an extra meeting, you can do so here.
 
 .. image:: _static/facilitator-dash-meetings.png
 
 Contact learners
-----------------
+^^^^^^^^^^^^^^^
 To send a new message to all learners, you can click on “New message”.
 
 .. image:: _static/facilitator-dash-messages.png
@@ -69,18 +69,40 @@ The reminder will be sent to learning circle participants 2 days before the meet
 
 .. image:: _static/facilitator-dash-messages-reminder.png
 
+Communication from P2PU
+----------------------
+We ask facilitators and participants a few questions at different times during the life cycle of a learning circle. We want the questions to be thoughtful and the information gathered to be useful. Here's an overview of what we ask and when we ask it. The diagram below shows the timeline for a single learning circle:
 
-Capture feedback
-----------------
+![learning circle timeline](_static/2020-01-31-timeline.png) 
+
+Weekly feedback
+^^^^^^^^^^^^^^^^
 
 Each week ends with a short intervention where the facilitator should capture feedback from the learning circles. The facilitator can capture this information in any way that they want, but at some point (during or right after the learning circle, the facilitators should record this information in the dashboard by clicking on the “Capture Feedback” button next to the appropriate meeting date.
 
 .. image:: _static/facilitator-dash-feedback.png
 
 Surveys and report
-----------------
+^^^^^^^^^^^^^^^^^
+When learning circles wrap up, we will send emails to both learners and the facilitator to learn more about their experience. The survey serves as a baseline for assessing learning circle quality and a prompt for feedback about the online course. 
 
-When learning circles wrap up, we will send emails to both learners and the facilitator to learn more about their experience.
+These are the questions we’re asking learners:
+1. What did you hope to achieve when you joined this learning circle?
+2. To what extent did you achieve this? (1-5 scale)
+3. Do you feel more confident about what you just learned in the course? (1-5 scale)
+4. How do you intend to apply what you learned?
+5. How well did the online course work as a learning circle? (1-5 stars and reason)
+6. Please share any other impressions you had about the online course.
+7. How likely are you to recommend participating in a learning circle to a friend or colleague? (1-5 starts and reason)
+
+And these are the questions we're asking facilitators:
+1. What did you hope to achieve when you signed up to facilitate this learning circle?
+2. To what extent did you achieve this? (1-5 scale)
+3. Did anything about the learning circle surprise you?
+4. Do you have any stories from the learning circle you want to share with the P2PU community?
+5. About how many people showed up for the first, second and last meetings?
+6. How well did the online course work as a learning circle? (1-5 stars and reason)
+7. How likely are you to recommend facilitating a learning circle to a friend or colleague? (1-5 scale and reason)
 
 **Two days before the second to last meeting:**
 
@@ -105,10 +127,4 @@ Here is an example of what the report looks like for a completed learning circle
 .. image:: _static/2018-11-13-report.png
 
 Facilitators can access the report for each of their learning circles from their dashboard.
-
-
-Support
--------
-
-If you have any questions, encounter any problems or need to do something that is not addressed above, you can contact us on our `forum <https://community.p2pu.org>`_.
 
