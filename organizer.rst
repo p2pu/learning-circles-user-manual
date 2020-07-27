@@ -6,7 +6,7 @@ We offer additional functionality for institutions that are running learning cir
 Teams are granted the following features and functionality:
 
 + Customizable learning circle team website
-+ Team profiles featured on the P2PU stite
++ Team profiles featured on the P2PU site
 + Weekly email with team updates
 + Proprietary course management
 + Aggregated learning circle feedback and data
