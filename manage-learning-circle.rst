@@ -73,7 +73,7 @@ Communication from P2PU
 ----------------------
 We ask facilitators and participants a few questions at different times during the life cycle of a learning circle. We want the questions to be thoughtful and the information gathered to be useful. Here's an overview of what we ask and when we ask it. The diagram below shows the timeline for a single learning circle:
 
-![learning circle timeline](_static/2020-01-31-timeline.png) 
+.. image:: _static/2020-01-31-timeline.png
 
 Weekly feedback
 ^^^^^^^^^^^^^^^^
