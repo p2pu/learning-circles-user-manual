@@ -6,6 +6,8 @@
 Welcome to learning circles user documentation!
 ========================================================
 
+This resource has been depricated. [Head over to the knowledge base](https://docs.p2pu.org/tools-and-resources/tools-for-learning-circles) for udpdated documentation.
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
